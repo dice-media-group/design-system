@@ -3,6 +3,6 @@
   "name": "@thoughtbot/tbd-system",
   "version": "0.0.1",
   "devDependencies": {
-    "lerna": "^2.5.1"
+    "lerna": "^2.9.0"
   }
 }
