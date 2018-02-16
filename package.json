@@ -1,6 +1,7 @@
 {
   "private": true,
   "devDependencies": {
-    "lerna": "^2.9.0"
+    "lerna": "^2.9.0",
+    "lerna-changelog": "^0.7.0"
   }
 }
